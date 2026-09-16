@@ -75,7 +75,6 @@ estudiantes = cargar_archivo_csv("estudiantes_grande.csv")
 estudiantes = limpiar_datos(estudiantes)
 
 stats = calcular_estadistica(estudiantes)
-print("--- Estadísticas generales ---")
 for clave, valor in stats.items():
     print(f"{clave}: {valor}")
 
