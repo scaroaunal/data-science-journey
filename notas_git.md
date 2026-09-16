@@ -1,6 +1,6 @@
 Aprendamos de GIT
 
-GIT es un gestor de versiones que permite guardar los cambios realizados durante un proyecto y acceder a ellos en cualuier parte del proyecto, es decir guarda copias de versiones anteriores al codigo y especifica donde se hicieron los cambios. Muy util para realizar pruebas y despliegues controlados sin necesidad de tener cientos y cientos de proyectos sin ningun orden.
+GITHUB es un gestor de versiones que permite guardar los cambios realizados durante un proyecto y acceder a ellos en cualuier parte del proyecto, es decir guarda copias de versiones anteriores al codigo y especifica donde se hicieron los cambios. Muy util para realizar pruebas y despliegues controlados sin necesidad de tener cientos y cientos de proyectos sin ningun orden.
 
 Comando principales de GIT.
 
