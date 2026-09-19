@@ -1,4 +1,3 @@
-This file has de information about this project!!
+## Proyectos
 
-read it carefully.
-Update 18 september.
+- [Pipeline de Análisis de Estudiantes](./proyectos/pipeline-estudiantes) — procesamiento de datos "sucios" en Python puro
